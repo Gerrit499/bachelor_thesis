@@ -30,4 +30,13 @@ This work investigates the correlation between the translation quality and model
 │ │ └── csv_results/ # The folder containing results of the experiment
 │ ├── exp2_results/ # The plots used in the thesis relevant to this experiment
 │ └── dataset_gpt/ # The datasets of varying quality used in this experiment</pre>
-      
+
+
+
+If you would like to use this work, please cite:
+@mastersthesis{janssen2025calibration,
+  title={Exploring Calibration in the Decoding Space of Large Language Models: A Case Study of Machine Translation},
+  author={Janssen, Gerrit},
+  school={Your University Name},
+  year={2025}
+}
