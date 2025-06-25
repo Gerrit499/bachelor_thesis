@@ -13,6 +13,8 @@ This work investigates the correlation between the translation quality and model
 - `pytorch`
 - `tensorboard`
 - `peft`
+  ## Important!!!
+  - `in the files used for the plots in the thesis base paths are used often, change them to fit your environment`
 
 ## project structure
 
